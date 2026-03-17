@@ -1,4 +1,4 @@
-#1)
+ #1)
 
 # Simple Reflex Agent for Vacuum Cleaner World
 
